@@ -2,4 +2,7 @@
 testes
 sabendo tudo isso fica mais facil de operar no git
 expandindo o repositório
-vou de vapo
+vamo de aulinha
+if x > 1 [
+ x++
+ ]
